@@ -14,7 +14,7 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2017-5-30T4:3:51.000Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-11-16T18:22:20.917Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-11-16T18:22:51.768Z</lastModifiedDate_dt>
   <title_t>Spartan GYM</title_t>
   <header_o>
     <item>
@@ -44,6 +44,29 @@
       <disableFlattening>false</disableFlattening>
     </item>
 
+    <item datasource="" inline="true">
+      <key>9dfc8211-46f5-4017-a5c7-b5613a61112e</key>
+      <value><![CDATA[New Overview]]></value>
+      <component id="9dfc8211-46f5-4017-a5c7-b5613a61112e">
+        <content-type>/component/component-overview</content-type>
+        <display-template>/templates/web/components/overview.ftl</display-template>
+        <internal-name><![CDATA[New Overview]]></internal-name>
+        <file-name>9dfc8211-46f5-4017-a5c7-b5613a61112e.xml</file-name>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <createdDate_dt>2022-11-16T18:22:51.767Z</createdDate_dt>
+        <lastModifiedDate_dt>2022-11-16T18:22:51.767Z</lastModifiedDate_dt>
+        <objectId>9dfc8211-46f5-4017-a5c7-b5613a61112e</objectId>
+        <sectionId/>
+        <titleText_t><![CDATA[Mu. Vuhixos befogurov did si pizacimun lepatorom c.]]></titleText_t>
+        <description_t><![CDATA[Kakeca nocaruxek buxu bucudelo sojupahebu penunugiru neciqop duqumami pamah xoheratowe.]]></description_t>
+        <imageSection_s><![CDATA[https://via.placeholder.com/150x150]]></imageSection_s>
+        <displayButton_b>false</displayButton_b>
+        <buttonText_t/>
+        <buttonSectionLink_s/>
+        <displayBlockQuote_b>false</displayBlockQuote_b>
+        <quoteDescription_html/>
+      </component>
+    </item>
     <item>
       <key>/site/components/page-sections/prices.xml</key>
       <value>Prices</value>
