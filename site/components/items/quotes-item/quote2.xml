@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-quote-item</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cb23</objectGroupId>
+	<objectId>cb237d34-3203-162a-d88f-d6a65f7036a9</objectId>
+	<internal-name>Quote 2</internal-name>
+	<authorFullName_t>James Job</authorFullName_t>
+	<authorProfession_t>Social Assistant</authorProfession_t>
+	<description_t>Yes! Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet, wisi risus purus augue.</description_t>
+	<file-name>quote2.xml</file-name>
+	<folder-name/>
+	<createdDate>2017-5-22T17:59:59.000Z</createdDate>
+	<createdDate_dt>2017-5-22T17:59:59.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-22T17:59:59.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-22T17:59:59.000Z</lastModifiedDate_dt>
+</component>

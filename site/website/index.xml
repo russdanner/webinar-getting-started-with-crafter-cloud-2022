@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>	<placeInNav>true</placeInNav>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<descriptor-mapper>hierarchical-mapper</descriptor-mapper>
+	<placeInNav>false</placeInNav>
+	<file-name>index.xml</file-name>
+	<internal-name>Home</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-30T4:3:51.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-30T4:3:51.000Z</lastModifiedDate_dt>
+	<title_t>Spartan GYM</title_t>
+	<header_o>	<item>	<key>/site/components/header/header.xml</key>
+	<value>Header</value>
+	<include>/site/components/header/header.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<pageSections_o>	<item>	<key>/site/components/page-sections/overview.xml</key>
+	<value>Overview</value>
+	<include>/site/components/page-sections/overview.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/page-sections/trainers.xml</key>
+	<value>Trainers</value>
+	<include>/site/components/page-sections/trainers.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/page-sections/newsletter.xml</key>
+	<value>Newsletter</value>
+	<include>/site/components/page-sections/newsletter.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/page-sections/gym-classes.xml</key>
+	<value>Classes</value>
+	<include>/site/components/page-sections/gym-classes.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/page-sections/prices.xml</key>
+	<value>Prices</value>
+	<include>/site/components/page-sections/prices.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/page-sections/quote1.xml</key>
+	<value>Quotes</value>
+	<include>/site/components/page-sections/quote1.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></pageSections_o>
+	<controllers/>
+	<footer_o>	<item>	<key>/site/components/footer/footer1.xml</key>
+	<value>Footer</value>
+	<include>/site/components/footer/footer1.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+</page>

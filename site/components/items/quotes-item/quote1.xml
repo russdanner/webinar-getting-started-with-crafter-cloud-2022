@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-quote-item</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c180</objectGroupId>
+	<objectId>c180a341-1556-eac8-cfea-e7b128b98d68</objectId>
+	<internal-name>Quote 1</internal-name>
+	<authorFullName_t>John Doe</authorFullName_t>
+	<authorProfession_t>Engenieer</authorProfession_t>
+	<file-name>quote1.xml</file-name>
+	<folder-name/>
+	<description_t>Sed dapibus rutrum lobortis. Sed nec interdum nunc, quis sodales ante. Maecenas volutpat congue.</description_t>
+	<createdDate>2017-5-19T20:14:46.000Z</createdDate>
+	<createdDate_dt>2017-5-19T20:14:46.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-22T18:17:1.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-22T18:17:1.000Z</lastModifiedDate_dt>
+</component>

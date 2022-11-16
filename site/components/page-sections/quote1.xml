@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-quotes</content-type>	<display-template>/templates/web/components/quotes.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>30c8</objectGroupId>
+	<objectId>30c8af7d-fa27-00b8-e0b7-b72ccdfdb920</objectId>
+	<file-name>quote1.xml</file-name>
+	<folder-name/>
+	<internal-name>Quotes</internal-name>
+	<titleText_t>Testimonials</titleText_t>
+	<displayTitleDescription_b>true</displayTitleDescription_b>
+	<titleColor_s>#333</titleColor_s>
+	<quoteStyle_s>quote</quoteStyle_s>
+	<description_t>Lorem ipsum dolor sit amet, maecenas eget vestibulum justo.</description_t>
+	<imageBackground_s/>
+	<quotes_o>	<item>	<key>/site/components/items/quotes-item/quote1.xml</key>
+	<value>Quote 1</value>
+	<include>/site/components/items/quotes-item/quote1.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/items/quotes-item/quote2.xml</key>
+	<value>Quote 2</value>
+	<include>/site/components/items/quotes-item/quote2.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></quotes_o>
+	<createdDate>2017-5-19T19:11:54.000Z</createdDate>
+	<createdDate_dt>2017-5-19T19:11:54.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-22T18:17:15.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-22T18:17:15.000Z</lastModifiedDate_dt>
+</component>

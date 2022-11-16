@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-footer</content-type>	<display-template>/templates/web/components/footer.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3ee6</objectGroupId>
+	<objectId>3ee64c03-d238-f11a-3aa4-ef26484b8a3d</objectId>
+	<socialNetwork_o>	<item>	<sns_url_s>https://www.facebook.com</sns_url_s>
+	<sns_socialNetwork_s>facebook</sns_socialNetwork_s>
+	</item>	<item>	<sns_url_s>https://www.twitter.com</sns_url_s>
+	<sns_socialNetwork_s>twitter</sns_socialNetwork_s>
+	</item>	<item>	<sns_url_s>https://www.dribble.com</sns_url_s>
+	<sns_socialNetwork_s>dribbble</sns_socialNetwork_s>
+	</item></socialNetwork_o>
+	<internal-name>Footer</internal-name>
+	<companyName_t>Crafter Software</companyName_t>
+	<year_s>2017</year_s>
+	<themeCredits_t>Templatemo</themeCredits_t>
+	<themeCreditsURL_s>http://www.templatemo.com/page/1</themeCreditsURL_s>
+	<tcs_titleText_t>About Fitness</tcs_titleText_t>
+	<ss_title>Session</ss_title>
+	<sns_titleText_t>Follow Us</sns_titleText_t>
+	<displayThemeCredits_b>true</displayThemeCredits_b>
+	<file-name>footer1.xml</file-name>
+	<folder-name/>
+	<tcs_description_t>Nunc id turpis tincidunt dui volutpat hendrerit et efficitur dolor. Morbi quis tempor felis, ut dictum ipsum. Praesent venenatis rutrum interdum.</tcs_description_t>
+	<ss_morningFrom_dt>2017-05-22T10:00:00.000Z</ss_morningFrom_dt>
+	<ss_morningTo_dt>2017-05-23T03:00:00.000Z</ss_morningTo_dt>
+	<ss_eveningFrom_dt>2017-05-22T20:00:00.000Z</ss_eveningFrom_dt>
+	<ss_eveningTo_dt>2017-05-23T01:00:00.000Z</ss_eveningTo_dt>
+	<createdDate>2017-5-22T20:19:31.000Z</createdDate>
+	<createdDate_dt>2017-5-22T20:19:31.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-22T20:52:54.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-22T20:52:54.000Z</lastModifiedDate_dt>
+	<ss_titleText_t>Session</ss_titleText_t>
+</component>

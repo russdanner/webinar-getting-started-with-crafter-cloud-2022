@@ -1,0 +1,55 @@
+# This file describes a plugin for use in Crafter CMS
+
+# The version of the format for this file
+descriptorVersion: 2
+
+# Describe the plugin
+plugin:
+  type: blueprint
+  id: com.rivetlogic.craftercms.blueprint.fitness
+  name: Fitness
+  tags:
+    - blueprint
+    - fitness
+  version:
+    major: 2
+    minor: 0
+    patch: 26
+  description: |
+    Fitness is a Crafter CMS blueprint for a Fitness Club site
+  website:
+    name: Fitness
+    url: https://github.com/rivetlogic/craftercms-bp-fitness.git
+  media:
+    screenshots:
+      - title: Home Section
+        description: Screenshot of the home section
+        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-fitness/master/static-assets/images/screenshots/bp_fitness_home.png"
+      - title: Trainers Section
+        description: Screenshot of the trainers section
+        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-fitness/master/static-assets/images/screenshots/bp_fitness_trainers.png"
+      - title: Prices Section
+        description: Screenshot of the prices section
+        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-fitness/master/static-assets/images/screenshots/bp_fitness_prices.png"
+  developer:
+    company:
+      name: Rivet Logic
+      email: info@rivetlogic.com
+      url: https://rivetlogic.com
+  build:
+    id: c3d2a5444e6a24b5e0481d6ba87901d0b02716c8
+    date: 2019-01-23T00:00:00Z
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+  crafterCmsVersions:
+    - major: 4
+      minor: 0
+      patch: 2
+    - major: 4
+      minor: 0
+      patch: 3
+  crafterCmsEditions:
+    - community
+    - enterprise
+  searchEngine: Elasticsearch

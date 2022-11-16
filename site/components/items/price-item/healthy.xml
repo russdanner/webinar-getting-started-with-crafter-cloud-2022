@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-catalog-item-price</content-type>	<display-template>/templates/web/components/catalog-item/catalog-item-price.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4461</objectGroupId>
+	<objectId>4461bfef-bc36-0d44-378a-9b2c4f507d57</objectId>
+	<file-name>healthy.xml</file-name>
+	<folder-name/>
+	<internal-name>Healthy</internal-name>
+	<titleText_t>Healthy</titleText_t>
+	<price_t>350</price_t>
+	<buttonText_t>Sign Up Now</buttonText_t>
+	<displayButton_b>true</displayButton_b>
+	<services_o>	<item>	<key>/site/components/items/service/5-yoga-courses.xml</key>
+	<value>5 Yoga Courses</value>
+	<include>/site/components/items/service/5-yoga-courses.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/items/service/one-general-trainer.xml</key>
+	<value>One General Trainer</value>
+	<include>/site/components/items/service/one-general-trainer.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/items/service/gym-services.xml</key>
+	<value>GYM Services</value>
+	<include>/site/components/items/service/gym-services.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/items/service//10-thai-massages.xml</key>
+	<value>10 Thai Massages</value>
+	<include>/site/components/items/service//10-thai-massages.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/items/service//15-aerobics.xml</key>
+	<value>15 Aerobics</value>
+	<include>/site/components/items/service//15-aerobics.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></services_o>
+	<createdDate>2017-5-18T16:56:57.000Z</createdDate>
+	<createdDate_dt>2017-5-18T16:56:57.000Z</createdDate_dt>
+	<lastModifiedDate>2017-7-7T16:55:34.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-7-7T16:55:34.000Z</lastModifiedDate_dt>
+	<buttonUrl_s>#newsletter</buttonUrl_s>
+</component>

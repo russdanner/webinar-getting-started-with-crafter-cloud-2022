@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-service</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>201c</objectGroupId>
+	<objectId>201c4166-d18f-af65-f93a-db62579f4f4d</objectId>
+	<file-name>15-aerobics.xml</file-name>
+	<folder-name/>
+	<internal-name>15 Aerobics</internal-name>
+	<titleText_t>15 Aerobics</titleText_t>
+	<description_t>15 Aerobics</description_t>
+	<createdDate>2017-5-30T20:53:28.000Z</createdDate>
+	<createdDate_dt>2017-5-30T20:53:28.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-30T20:53:28.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-30T20:53:28.000Z</lastModifiedDate_dt>
+</component>

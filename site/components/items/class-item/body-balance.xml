@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-catalog-item</content-type>	<display-template>/templates/web/components/catalog-item/catalog-item.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>09bc</objectGroupId>
+	<objectId>09bced24-1bfe-0bb5-c64e-ef3842291f3b</objectId>
+	<classDays_o>	<item>	<day_s>K</day_s>
+	</item>	<item>	<day_s>W</day_s>
+	</item></classDays_o>
+	<file-name>body-balance.xml</file-name>
+	<folder-name/>
+	<internal-name>Body Balance</internal-name>
+	<titleText_t>Body Balance</titleText_t>
+	<trainerName_t>Joh Does</trainerName_t>
+	<classCategory_s>Flexibility</classCategory_s>
+	<classImage_s>/static-assets/images/blog-thumb.jpg</classImage_s>
+	<startTime_dt>2017-05-30T20:00:00.000Z</startTime_dt>
+	<createdDate>2017-5-30T20:30:31.000Z</createdDate>
+	<createdDate_dt>2017-5-30T20:30:31.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-30T20:30:31.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-30T20:30:31.000Z</lastModifiedDate_dt>
+</component>

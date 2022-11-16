@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-service</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>248f</objectGroupId>
+	<objectId>248fa3a5-7704-35ab-911f-cec7c789efa4</objectId>
+	<file-name>three-personal-trainers.xml</file-name>
+	<folder-name/>
+	<internal-name>Three Personal Trainers</internal-name>
+	<titleText_t>Three Personal Trainers</titleText_t>
+	<description_t>Three Personal Trainers</description_t>
+	<createdDate>2017-5-30T20:50:4.000Z</createdDate>
+	<createdDate_dt>2017-5-30T20:50:4.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-30T20:50:4.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-30T20:50:4.000Z</lastModifiedDate_dt>
+</component>

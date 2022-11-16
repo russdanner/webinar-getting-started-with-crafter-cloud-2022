@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-service</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e057</objectGroupId>
+	<objectId>e0579665-7f6a-e2ac-544d-5b4ba77d3b97</objectId>
+	<file-name>15-yoga-courses.xml</file-name>
+	<folder-name/>
+	<internal-name>15 Yoga Courses</internal-name>
+	<titleText_t>15 Yoga Courses</titleText_t>
+	<description_t>15 Yoga Courses</description_t>
+	<createdDate>2017-5-30T20:50:33.000Z</createdDate>
+	<createdDate_dt>2017-5-30T20:50:33.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-30T20:50:33.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-30T20:50:33.000Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-newsletter</content-type>	<display-template>/templates/web/components/newsletter.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6b03</objectGroupId>
+	<objectId>6b036cf5-74b5-302d-3555-2e7432f9b270</objectId>
+	<file-name>newsletter.xml</file-name>
+	<folder-name/>
+	<internal-name>Newsletter</internal-name>
+	<titleText_t>Signup Newsletter</titleText_t>
+	<namePlaceHolder_t>Name</namePlaceHolder_t>
+	<emailPlaceHolder_t>Email</emailPlaceHolder_t>
+	<buttonText_t>Send Message</buttonText_t>
+	<description_t>Get discounts for your personal fitness and gym services now.</description_t>
+	<backgroundImage_s>/static-assets/images/newsletter-bg.jpg</backgroundImage_s>
+	<createdDate>2017-5-12T13:40:20.000Z</createdDate>
+	<createdDate_dt>2017-5-12T13:40:20.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-12T13:40:20.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-12T13:40:20.000Z</lastModifiedDate_dt>
+</component>

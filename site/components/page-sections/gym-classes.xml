@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <content-type>/component/component-catalog</content-type>
+  <display-template>/templates/web/components/catalog.ftl</display-template>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <objectGroupId>9330</objectGroupId>
+  <objectId>9330e9b6-331e-1093-f682-715a31719a91</objectId>
+  <internal-name>Classes</internal-name>
+  <titleText_t>Workouts</titleText_t>
+  <description_t>Lorem ipsum dolor sit amet, maecenas eget vestibulum justo.</description_t>
+  <file-name>gym-classes.xml</file-name>
+  <folder-name/>
+  <items_o>
+    <item>
+      <key>/site/components/items/class-item/bodypump.xml</key>
+      <value>Body Pump</value>
+      <include>/site/components/items/class-item/bodypump.xml</include>
+      <disableFlattening>false</disableFlattening>
+    </item>
+    <item>
+      <key>/site/components/items/class-item/body-combat.xml</key>
+      <value>Body Combat</value>
+      <include>/site/components/items/class-item/body-combat.xml</include>
+      <disableFlattening>false</disableFlattening>
+    </item>
+    <item>
+      <key>/site/components/items/class-item/cx-worx.xml</key>
+      <value>CX Worx</value>
+      <include>/site/components/items/class-item/cx-worx.xml</include>
+      <disableFlattening>false</disableFlattening>
+    </item>
+    <item>
+      <key>/site/components/items/class-item/body-balance.xml</key>
+      <value>Body Balance</value>
+      <include>/site/components/items/class-item/body-balance.xml</include>
+      <disableFlattening>false</disableFlattening>
+    </item>
+  </items_o>
+  <createdDate>2017-5-15T20:4:21.000Z</createdDate>
+  <createdDate_dt>2017-5-15T20:4:21.000Z</createdDate_dt>
+  <lastModifiedDate>2017-5-30T20:54:21.000Z</lastModifiedDate>
+  <lastModifiedDate_dt>2021-03-22T23:16:45.790Z</lastModifiedDate_dt>
+  <titleColor_s>#333</titleColor_s>
+  <imageBackground_s/>
+</component>

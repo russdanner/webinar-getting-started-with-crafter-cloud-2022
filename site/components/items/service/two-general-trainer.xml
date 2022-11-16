@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-service</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2925</objectGroupId>
+	<objectId>292547ab-9e10-4d1b-590c-ec7691db0cd7</objectId>
+	<file-name>two-general-trainer.xml</file-name>
+	<folder-name/>
+	<internal-name>Two General Trainers</internal-name>
+	<titleText_t>Two General Trainers</titleText_t>
+	<description_t>Two General Trainers</description_t>
+	<createdDate>2017-5-30T20:41:18.000Z</createdDate>
+	<createdDate_dt>2017-5-30T20:41:18.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-30T20:41:18.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-30T20:41:18.000Z</lastModifiedDate_dt>
+</component>

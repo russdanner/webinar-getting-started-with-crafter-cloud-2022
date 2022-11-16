@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-catalog</content-type>	<display-template>/templates/web/components/catalog.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3ce8</objectGroupId>
+	<objectId>3ce8d33f-91ef-996d-38f9-b78080b062b0</objectId>
+	<file-name>prices.xml</file-name>
+	<folder-name/>
+	<internal-name>Prices</internal-name>
+	<titleText_t>Our Prices</titleText_t>
+	<description_t>Lorem ipsum dolor sit amet, maecenas eget vestibulum justo.</description_t>
+	<items_o>	<item>	<key>/site/components/items/price-item/healthy.xml</key>
+	<value>Healthy</value>
+	<include>/site/components/items/price-item/healthy.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/items/price-item/best-fit.xml</key>
+	<value>Best Fit</value>
+	<include>/site/components/items/price-item/best-fit.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/items/price-item/rigid-body.xml</key>
+	<value>Rigid Body</value>
+	<include>/site/components/items/price-item/rigid-body.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></items_o>
+	<createdDate>2017-5-18T16:40:33.000Z</createdDate>
+	<createdDate_dt>2017-5-18T16:40:33.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-30T20:51:33.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-30T20:51:33.000Z</lastModifiedDate_dt>
+	<imageBackground_s>/static-assets/images/price-bg.jpg</imageBackground_s>
+	<titleColor_s>#fff</titleColor_s>
+</component>

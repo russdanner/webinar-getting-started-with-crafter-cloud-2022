@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-service</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c595</objectGroupId>
+	<objectId>c59563eb-0e3c-4536-5277-0c8c81e2e84f</objectId>
+	<internal-name>GYM Services</internal-name>
+	<titleText_t>GYM Services</titleText_t>
+	<file-name>gym-services.xml</file-name>
+	<folder-name/>
+	<description_t>GYM Services</description_t>
+	<createdDate>2017-5-18T16:56:3.000Z</createdDate>
+	<createdDate_dt>2017-5-18T16:56:3.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-18T16:56:3.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-18T16:56:3.000Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/level-descriptor</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7ed4</objectGroupId>
+	<objectId>7ed4802b-fd15-fba5-1b58-218b2c3fafe5</objectId>
+	<file-name>crafter-level-descriptor.level.xml</file-name>
+	<folder-name/>
+	<header_o>	<item>	<key>/site/components/header/header.xml</key>
+	<value>Header</value>
+	<include>/site/components/header/header.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<createdDate>2017-5-10T18:53:23.000Z</createdDate>
+	<createdDate_dt>2017-5-10T18:53:23.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-10T21:20:45.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-10T21:20:45.000Z</lastModifiedDate_dt>
+</component>

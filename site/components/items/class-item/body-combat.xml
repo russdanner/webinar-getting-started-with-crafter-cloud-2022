@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-catalog-item</content-type>	<display-template>/templates/web/components/catalog-item/catalog-item.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3e9f</objectGroupId>
+	<objectId>3e9fcb6f-5c43-8905-d701-56ce1d740a32</objectId>
+	<classDays_o>	<item>	<day_s>M</day_s>
+	</item>	<item>	<day_s>F</day_s>
+	</item></classDays_o>
+	<internal-name>Body Combat</internal-name>
+	<titleText_t>Body Combat</titleText_t>
+	<trainerName_t>John Doe</trainerName_t>
+	<file-name>body-combat.xml</file-name>
+	<folder-name/>
+	<classCategory_s>Cardio</classCategory_s>
+	<classImage_s>/static-assets/images/blog-thumb.jpg</classImage_s>
+	<startTime_dt>2017-05-30T20:00:00.000Z</startTime_dt>
+	<createdDate>2017-5-30T20:26:44.000Z</createdDate>
+	<createdDate_dt>2017-5-30T20:26:44.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-30T20:26:44.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-30T20:26:44.000Z</lastModifiedDate_dt>
+</component>

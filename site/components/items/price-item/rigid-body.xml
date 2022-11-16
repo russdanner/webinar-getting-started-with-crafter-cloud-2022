@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-catalog-item-price</content-type>	<display-template>/templates/web/components/catalog-item/catalog-item-price.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ad8a</objectGroupId>
+	<objectId>ad8a4e0d-0860-c599-7edf-c864aa05b45d</objectId>
+	<file-name>rigid-body.xml</file-name>
+	<folder-name/>
+	<internal-name>Rigid Body</internal-name>
+	<titleText_t>Rigid Body</titleText_t>
+	<price_t>750</price_t>
+	<buttonText_t>Sign Up Now</buttonText_t>
+	<displayButton_b>true</displayButton_b>
+	<services_o>	<item>	<key>/site/components/items/service//three-personal-trainers.xml</key>
+	<value>Three Personal Trainers</value>
+	<include>/site/components/items/service//three-personal-trainers.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/items/service/gym-services.xml</key>
+	<value>GYM Services</value>
+	<include>/site/components/items/service/gym-services.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/items/service//15-yoga-courses.xml</key>
+	<value>15 Yoga Courses</value>
+	<include>/site/components/items/service//15-yoga-courses.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/items/service/20-thai-massages.xml</key>
+	<value>20 Thai Massages</value>
+	<include>/site/components/items/service/20-thai-massages.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/items/service//35-aerobics.xml</key>
+	<value>35 Aerobics</value>
+	<include>/site/components/items/service//35-aerobics.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></services_o>
+	<createdDate>2017-5-30T20:49:18.000Z</createdDate>
+	<createdDate_dt>2017-5-30T20:49:18.000Z</createdDate_dt>
+	<lastModifiedDate>2017-7-7T16:55:26.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-7-7T16:55:26.000Z</lastModifiedDate_dt>
+	<buttonUrl_s>#newsletter</buttonUrl_s>
+</component>

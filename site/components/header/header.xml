@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-header</content-type>	<display-template>/templates/web/components/header.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2955</objectGroupId>
+	<objectId>29554485-5530-5382-3cff-121ccc04db39</objectId>
+	<file-name>header.xml</file-name>
+	<folder-name/>
+	<internal-name>Header</internal-name>
+	<gymName_t>Spartan GYM</gymName_t>
+	<h3FirstText_t>Welcome to Sparta</h3FirstText_t>
+	<h1SecondText_t>What is your profession?</h1SecondText_t>
+	<h1ThirdText_t/>
+	<buttonText_t>View More (+)</buttonText_t>
+	<mediaBanner_o>	<item>	<key>/site/components/banners/video.xml</key>
+	<value>Video Banner</value>
+	<include>/site/components/banners/video.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></mediaBanner_o>
+	<buttonSectionLink_s>#overview</buttonSectionLink_s>
+	<createdDate>2017-5-10T19:2:18.000Z</createdDate>
+	<createdDate_dt>2017-5-10T19:2:18.000Z</createdDate_dt>
+	<lastModifiedDate>2017-7-7T15:40:24.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-7-7T15:40:24.000Z</lastModifiedDate_dt>
+	<navigationMenuList_o>	<item>	<navigationMenuLabel_t>Home</navigationMenuLabel_t>
+	<navigationMenu_s>#home</navigationMenu_s>
+	</item>	<item>	<navigationMenuLabel_t>About</navigationMenuLabel_t>
+	<navigationMenu_s>#overview</navigationMenu_s>
+	</item>	<item>	<navigationMenuLabel_t>Trainers</navigationMenuLabel_t>
+	<navigationMenu_s>#trainer</navigationMenu_s>
+	</item>	<item>	<navigationMenuLabel_t>Workouts</navigationMenuLabel_t>
+	<navigationMenu_s>#class</navigationMenu_s>
+	</item>	<item>	<navigationMenuLabel_t>Prices</navigationMenuLabel_t>
+	<navigationMenu_s>#price</navigationMenu_s>
+	</item>	<item>	<navigationMenuLabel_t>Testimonials</navigationMenuLabel_t>
+	<navigationMenu_s>#testimonial</navigationMenu_s>
+	</item></navigationMenuList_o>
+	<controller/>
+</component>

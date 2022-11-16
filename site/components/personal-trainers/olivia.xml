@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-personal-trainer</content-type>	<display-template>/templates/web/components/personal-trainer/personal-trainer.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2bd4</objectGroupId>
+	<objectId>2bd4614d-0c24-67a7-5c83-028601115457</objectId>
+	<file-name>olivia.xml</file-name>
+	<folder-name/>
+	<internal-name>Olivia</internal-name>
+	<trainerName_t>Olivia</trainerName_t>
+	<trainerTitle_t>Yoga Teacher</trainerTitle_t>
+	<trainerDescription_t>Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet, wisi risus purus augue vulputate.</trainerDescription_t>
+	<trainerImage_s>/static-assets/images/trainer-img3.jpg</trainerImage_s>
+	<socialMediaLinks_o>	<item>	<url_s>http://www.facebook.com</url_s>
+	<socialNetworkName_s>facebook</socialNetworkName_s>
+	</item>	<item>	<url_s>http://www.twitter.com</url_s>
+	<socialNetworkName_s>twitter</socialNetworkName_s>
+	</item>	<item>	<url_s>http://www.behance.com</url_s>
+	<socialNetworkName_s>behance</socialNetworkName_s>
+	</item></socialMediaLinks_o>
+	<createdDate>2017-5-11T17:41:55.000Z</createdDate>
+	<createdDate_dt>2017-5-11T17:41:55.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-11T17:41:55.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-11T17:41:55.000Z</lastModifiedDate_dt>
+</component>

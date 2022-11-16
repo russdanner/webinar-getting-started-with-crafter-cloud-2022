@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-personal-trainer</content-type>	<display-template>/templates/web/components/personal-trainer/personal-trainer.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e805</objectGroupId>
+	<objectId>e8053182-03cc-8d37-33af-23ecb5e7a141</objectId>
+	<internal-name>Marry</internal-name>
+	<trainerName_t>Marry</trainerName_t>
+	<trainerTitle_t>Fitness Trainer</trainerTitle_t>
+	<trainerDescription_t>Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet, wisi risus purus augue vulputate.</trainerDescription_t>
+	<file-name>marry.xml</file-name>
+	<folder-name/>
+	<trainerImage_s>/static-assets/images/trainer-img2.jpg</trainerImage_s>
+	<socialMediaLinks_o>	<item>	<url_s>http://www.facebook.com</url_s>
+	<socialNetworkName_s>facebook</socialNetworkName_s>
+	</item>	<item>	<url_s>http://www.twitter.com</url_s>
+	<socialNetworkName_s>twitter</socialNetworkName_s>
+	</item></socialMediaLinks_o>
+	<createdDate>2017-5-11T17:38:46.000Z</createdDate>
+	<createdDate_dt>2017-5-11T17:38:46.000Z</createdDate_dt>
+	<lastModifiedDate>2017-5-11T17:38:46.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-5-11T17:38:46.000Z</lastModifiedDate_dt>
+</component>
