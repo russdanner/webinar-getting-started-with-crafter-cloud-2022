@@ -9,7 +9,7 @@
   <folder-name/>
   <internal-name>Header</internal-name>
   <gymName_t><![CDATA[EvolveGT]]></gymName_t>
-  <h3FirstText_t>Welcome to Sparta</h3FirstText_t>
+  <h3FirstText_t><![CDATA[Come Ride With Us]]></h3FirstText_t>
   <h1SecondText_t>What is your profession?</h1SecondText_t>
   <h1ThirdText_t/>
   <buttonText_t>View More (+)</buttonText_t>
@@ -25,7 +25,7 @@
   <createdDate>2017-5-10T19:2:18.000Z</createdDate>
   <createdDate_dt>2017-5-10T19:2:18.000Z</createdDate_dt>
   <lastModifiedDate>2017-7-7T15:40:24.000Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-11-16T18:15:42.626Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-11-16T18:17:19.248Z</lastModifiedDate_dt>
   <navigationMenuList_o>
     <item>
       <navigationMenuLabel_t>Home</navigationMenuLabel_t>
