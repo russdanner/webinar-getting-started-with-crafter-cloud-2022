@@ -327,6 +327,9 @@
                      <type>boolean</type>
                   </constraint>
                </constraints>
+               <additionalFields>
+                  <id>startTime_dt_tz</id>
+               </additionalFields>
             </field>
             <field>
                <type>repeat</type>

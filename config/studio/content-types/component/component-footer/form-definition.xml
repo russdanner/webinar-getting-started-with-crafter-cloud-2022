@@ -515,6 +515,9 @@
                      <type>boolean</type>
                   </constraint>
                </constraints>
+               <additionalFields>
+                  <id>ss_morningFrom_dt_tz</id>
+               </additionalFields>
             </field>
             <field>
                <type>date-time</type>
@@ -583,6 +586,9 @@
                      <type>boolean</type>
                   </constraint>
                </constraints>
+               <additionalFields>
+                  <id>ss_morningTo_dt_tz</id>
+               </additionalFields>
             </field>
             <field>
                <type>label</type>
@@ -668,6 +674,9 @@
                      <type>boolean</type>
                   </constraint>
                </constraints>
+               <additionalFields>
+                  <id>ss_eveningFrom_dt_tz</id>
+               </additionalFields>
             </field>
             <field>
                <type>date-time</type>
@@ -736,6 +745,9 @@
                      <type>boolean</type>
                   </constraint>
                </constraints>
+               <additionalFields>
+                  <id>ss_eveningTo_dt_tz</id>
+               </additionalFields>
             </field>
          </fields>
       </section>
