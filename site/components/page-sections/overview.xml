@@ -15,11 +15,11 @@
   <displayButton_b>true</displayButton_b>
   <displayBlockQuote_b>true</displayBlockQuote_b>
   <imageSection_s><![CDATA[/static-assets/images/page/36c2da6f-76b5-8881-7283-ea7cda1254a5/family.jpeg]]></imageSection_s>
-  <description_t>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat.&lt;/p&gt;
-&lt;p&gt;Fitness web template includes total 2 pages. This is an index (main) page and another is a blog page.&lt;/p&gt;</description_t>
+  <description_t><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut <span style="color: #e03e2d;"><strong>laoreet</strong></span>. Dolore magna aliquam erat.</p>
+<p>Fitness web template includes total 2 pages. This is an index (main) page and another is a blog page.</p>]]></description_t>
   <quoteDescription_html><![CDATA[<p>Join our trackday family</p>]]></quoteDescription_html>
   <createdDate>2017-5-12T16:25:31.000Z</createdDate>
   <createdDate_dt>2017-5-12T16:25:31.000Z</createdDate_dt>
   <lastModifiedDate>2017-5-24T19:40:47.000Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-11-16T18:18:29.216Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-11-16T18:19:35.682Z</lastModifiedDate_dt>
 </component>
