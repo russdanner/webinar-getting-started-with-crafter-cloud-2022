@@ -12,7 +12,7 @@
   <h3FirstText_t><![CDATA[Come Ride With Us]]></h3FirstText_t>
   <h1SecondText_t><![CDATA[MOTORCYCLE TRACK DAYS]]></h1SecondText_t>
   <h1ThirdText_t/>
-  <buttonText_t>View More (+)</buttonText_t>
+  <buttonText_t><![CDATA[Sign up Today!]]></buttonText_t>
   <mediaBanner_o>
     <item>
       <key>/site/components/banners/video.xml</key>
@@ -25,7 +25,7 @@
   <createdDate>2017-5-10T19:2:18.000Z</createdDate>
   <createdDate_dt>2017-5-10T19:2:18.000Z</createdDate_dt>
   <lastModifiedDate>2017-7-7T15:40:24.000Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-11-16T18:17:30.690Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-11-16T18:17:40.646Z</lastModifiedDate_dt>
   <navigationMenuList_o>
     <item>
       <navigationMenuLabel_t>Home</navigationMenuLabel_t>
