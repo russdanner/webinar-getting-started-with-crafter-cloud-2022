@@ -6,7 +6,7 @@
   <objectGroupId>c953</objectGroupId>
   <objectId>c9537e22-2cbe-de14-1009-c62e8fe6cb8e</objectId>
   <internal-name>Jenny</internal-name>
-  <trainerName_t>Jenny</trainerName_t>
+  <trainerName_t><![CDATA[BILL]]></trainerName_t>
   <trainerTitle_t>Body Trainer</trainerTitle_t>
   <file-name>jenny.xml</file-name>
   <folder-name/>
@@ -25,5 +25,5 @@
   <createdDate>2017-5-11T17:25:9.000Z</createdDate>
   <createdDate_dt>2017-5-11T17:25:9.000Z</createdDate_dt>
   <lastModifiedDate>2017-5-11T17:41:8.000Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-11-16T18:20:33.097Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-11-16T18:20:43.950Z</lastModifiedDate_dt>
 </component>
