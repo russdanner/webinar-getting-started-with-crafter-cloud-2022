@@ -11,7 +11,7 @@
   <file-name>jenny.xml</file-name>
   <folder-name/>
   <trainerDescription_t>Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet, wisi risus purus augue vulputate.</trainerDescription_t>
-  <trainerImage_s><![CDATA[/static-assets/images/page/c9537e22-2cbe-de14-1009-c62e8fe6cb8e/Bill.png]]></trainerImage_s>
+  <trainerImage_s><![CDATA[/static-assets/images/page/c9537e22-2cbe-de14-1009-c62e8fe6cb8e/Gabe.png]]></trainerImage_s>
   <socialMediaLinks_o>
     <item>
       <url_s>http://www.facebook.com</url_s>
@@ -25,5 +25,5 @@
   <createdDate>2017-5-11T17:25:9.000Z</createdDate>
   <createdDate_dt>2017-5-11T17:25:9.000Z</createdDate_dt>
   <lastModifiedDate>2017-5-11T17:41:8.000Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-11-16T18:20:52.183Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-11-16T18:21:26.041Z</lastModifiedDate_dt>
 </component>
